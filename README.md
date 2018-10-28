@@ -1,3 +1,9 @@
+# Remote
+```
+git remote add origin git@github.com:[user_name]/[repository].git
+git remote -v 
+```
+
 # Branch
 
 ```
